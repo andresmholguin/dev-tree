@@ -11,7 +11,8 @@
   "author": "AndresHolguin",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
